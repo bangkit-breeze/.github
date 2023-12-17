@@ -1,7 +1,7 @@
 # BREEZE: Bio Reward Engagement and Eco Zero Emission
 
 <p align="center">
-    <img alt="banner breeze" src="#"><br>
+    <img alt="banner breeze" src="https://github.com/bangkit-breeze/.github/blob/main/profile/public/banner.png"><br>
     <br>
     <a href="#"><img alt="badge sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
 </p>
