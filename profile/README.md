@@ -41,3 +41,10 @@ Breeze is an application that can help users track and calculate the carbon foot
 |     Fikri Khoiron Fadhila          | C002BSY3196 | Cloud Computing     |    Institut Teknologi Bandung  |            [LinkedIn](https://id.linkedin.com/in/fikri-khoiron-fadhila) or [Github](https://github.com/fikrikhoironn)           |
 |       Muhamad Yazid Imani          | A001BSY2850 | Mobile Development  |     Institut Pertanian Bogor   | [LinkedIn](https://www.linkedin.com/in/muhammad-yazid-74a648190) or [Github](https://github.com/pierreviences) |
 |         Achmad Fuadi               | A303BSY1938 | Mobile Development  |    Universitas PGRI Semarang   | [LinkedIn](https://id.linkedin.com/in/achmad-fuadi-115a83220) or [Github](https://github.com/acmfuadi) |
+
+## Tech Stacks
+
+## Disclaimer
+-   This project is created for educational purpose as the requirement to graduate from [**_Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka_**.](https://www.linkedin.com/company/bangkit-academy/mycompany/)
+
+<p align="right"> Keep the Bangkit Spirit and Stay Safe! <br> CH2-PS023  Teams </p>
